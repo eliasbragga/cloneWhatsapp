@@ -1,0 +1,204 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400&display=swap');
+
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+header{
+    display: flex;
+    background-color: #128C7E;
+    height: 90px;    
+    align-items: center;
+    position: fixed;
+    width: 100%;
+    top: 0;
+}
+
+#icone-header{
+    color: white;
+    margin-right: px;
+}
+
+#seta-baixo{
+    margin-left: 5px;
+   margin-top: 10px;
+}
+
+#pt-br{
+    margin-right: 0;
+}
+
+#img-texto{
+    display: flex;
+    margin: auto;
+    align-items: center;
+    
+}
+
+ul {
+    list-style: none;
+    text-decoration: none;
+    display: flex;
+    
+}
+
+a{
+    
+    color: #ffffff;
+    text-decoration: none;
+    margin-right: 40px;
+}
+
+#img-wpp{
+   margin-right: 90px;
+   margin-bottom: 4px;
+   cursor: pointer;
+   
+}
+
+
+/* Main */
+
+#conteudo-sessao{
+    display: flex;
+    justify-content: space-evenly;
+    
+    margin-top: 20px;
+    
+    width: 63vw;
+    margin: auto;
+    
+    padding: 0px 80px;
+   
+}
+
+#texto-sec1{
+    margin-right: 0px;
+    margin-top: 25px;
+    width: 700px;
+}
+
+#h2-sec1{
+    font-size: 33px;
+    line-height: 43px;
+    color: #1c1e21;
+    font-family: Roboto, Helvetica, sans-serif;
+    font-weight: 400;
+    margin-top: 90px;
+    width: 355px;
+   
+    
+}
+
+#p-sec1{
+    margin-top: 30px;
+    font-size: 18px;
+    line-height: 26px;
+    
+}
+
+#p2-seec1{
+    font-size: 16px;
+    color: #5e5e5e;
+    margin-top: 20px;
+    margin-bottom: 20px;
+   line-height: 21px;
+
+}
+
+#icone{
+    color:#128C7E;
+    margin-top: 10px;
+    margin-right: 5px;
+}
+
+.seta-direita{
+    margin-left: 7px;
+    margin-top: 11px;
+}
+
+.sub-texto{
+    display: flex;
+    color: #159b8b;
+    padding: 8px;
+}
+
+#maca{
+    margin-top: 7px;
+    margin-right: 8px;
+}
+
+#ImgMacWindows{
+    margin-top: 7px;
+    margin-right: 8px;
+}
+
+
+
+
+
+#img-sec2{
+  margin-top: 57px;
+  margin-right: 28px;
+  
+}
+
+.android{
+    cursor: pointer;
+    color: #1cb39b;
+    margin-left: 10px;
+    margin-right: 0;
+    margin-top: 3px;
+    font-size: 18px;
+}
+
+.android:hover{
+    text-decoration: underline;
+}
+
+/* Segunda parte */
+
+#segunda-parte{
+    width: 95%;
+    height: 850px;
+    background-color: #1cb39b;
+    margin: 50px auto ;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.div-conteudo-segunda-parte{
+    width: 49%;
+    background-color: rgb(184, 25, 38);
+   
+    
+}
+
+#color-green-div{
+    background-color: #D8E8EA;
+}
+#color-div-lighgreen{
+    background-color: #E7F0E4;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
